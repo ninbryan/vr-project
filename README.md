@@ -7,3 +7,5 @@
 [A-Frame physics system](https://github.com/donmccurdy/aframe-physics-system)
 
 [derpymon](https://github.com/devpaul/derpymon)
+
+[js13kgames aframe winners](http://2017.js13kgames.com/#winners-aframe)
